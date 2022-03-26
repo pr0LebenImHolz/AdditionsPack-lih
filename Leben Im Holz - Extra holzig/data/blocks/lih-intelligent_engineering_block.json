@@ -1,0 +1,13 @@
+{
+  "item_block": {
+    "name": "Intelligent Engineering Block",
+    "type": "additions:block_simple"
+  },
+  "name": "Intelligent Engineering Block",
+  "material": "minecraft:metal",
+  "hardness": 20.0,
+  "resistance": 1000.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "type": "additions:simple"
+}

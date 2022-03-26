@@ -1,0 +1,38 @@
+{
+  "recipe": {
+    "type": "forge:ore_shapeless",
+    "result": {
+      "item": "additions:lih-icon"
+    },
+    "ingredients": [
+      {
+        "stack_list": [
+          {
+            "item": "patchouli:guide_book",
+            "tag": "{\"patchouli:book\":\"patchouli:lih_guide\"}"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      {
+        "ore_name": "frame",
+        "stack_list": [
+          {
+            "item": "minecraft:item_frame",
+            "damage": "any"
+          },
+          {
+            "item": "quark:colored_item_frame",
+            "damage": "any"
+          },
+          {
+            "item": "quark:glass_item_frame",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    ]
+  },
+  "type": "additions:crafting_shapeless"
+}

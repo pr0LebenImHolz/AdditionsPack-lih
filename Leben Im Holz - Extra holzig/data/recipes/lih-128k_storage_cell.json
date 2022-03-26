@@ -1,0 +1,47 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "additions:lih-128k_storage_cell"
+    },
+    "key": {
+      "0": {
+        "ore_name": "glowstone",
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "stack_list": [
+          {
+            "item": "appliedenergistics2:controller",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "2": {
+        "stack_list": [
+          {
+            "item": "appliedenergistics2:material",
+            "damage": 38
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "3": {
+        "stack_list": [
+          {
+            "item": "appliedenergistics2:quartz_vibrant_glass",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      "010",
+      "232",
+      "010"
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}

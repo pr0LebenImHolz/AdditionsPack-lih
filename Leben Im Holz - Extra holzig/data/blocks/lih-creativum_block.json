@@ -1,0 +1,20 @@
+{
+  "item_block": {
+    "name": "Creativum Block",
+    "shines": true,
+    "tooltip": "§5A step to something greater than its parts",
+    "type": "additions:block_simple"
+  },
+  "name": "Creativum Block",
+  "material": "minecraft:dragon_egg",
+  "map_color": "minecraft:yellow_stained_clay",
+  "hardness": 100.0,
+  "resistance": 6000000.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "light_opacity": 13,
+  "light_level": 15,
+  "is_beacon_base": true,
+  "semi_transparent": true,
+  "type": "additions:simple"
+}

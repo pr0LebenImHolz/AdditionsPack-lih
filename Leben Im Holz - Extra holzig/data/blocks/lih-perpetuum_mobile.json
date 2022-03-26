@@ -1,0 +1,14 @@
+{
+  "item_block": {
+    "name": "Perpetuum Mobile",
+    "type": "additions:block_simple"
+  },
+  "name": "Perpetuum Mobile",
+  "material": "minecraft:anvil",
+  "hardness": 6.0,
+  "resistance": 3.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "light_level": 8,
+  "type": "additions:simple"
+}

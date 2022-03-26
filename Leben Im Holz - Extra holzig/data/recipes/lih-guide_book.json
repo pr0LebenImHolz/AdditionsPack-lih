@@ -1,0 +1,25 @@
+{
+  "recipe": {
+    "type": "forge:ore_shapeless",
+    "result": {
+      "item": "patchouli:guide_book",
+      "nbt": "{\"patchouli:book\":\"patchouli:lih_guide\"}"
+    },
+    "ingredients": [
+      {
+        "stack_list": [
+          {
+            "item": "minecraft:book",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      {
+        "ore_name": "logWood",
+        "type": "additions:ingredient_ore_nbt"
+      }
+    ]
+  },
+  "type": "additions:crafting_shapeless"
+}

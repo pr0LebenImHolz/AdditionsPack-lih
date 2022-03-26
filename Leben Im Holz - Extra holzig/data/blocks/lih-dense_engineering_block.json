@@ -1,0 +1,15 @@
+{
+  "item_block": {
+    "name": "Dense Engineering Algorithm Block",
+    "type": "additions:block_simple"
+  },
+  "name": "Dense Engineering Algorithm Block",
+  "material": "minecraft:circuits",
+  "map_color": "minecraft:yellow_stained_clay",
+  "hardness": 2.0,
+  "resistance": 5.0,
+  "harvest_level": 1,
+  "harvest_tool": "pickaxe",
+  "light_level": 1,
+  "type": "additions:simple"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "§6Tagesanbruch",
+  "tooltip": "§6Vertreibt die Dunkelheit der Nacht",
+  "max_stack": 16,
+  "hunger": 0,
+  "saturation": 0.0,
+  "always_edible": true,
+  "eat_time": 15,
+  "eaten_effects": [
+    {
+      "command": "/time set day",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    }
+  ],
+  "type": "additions:food"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "§7Leere Perle",
+  "max_stack": 16,
+  "hunger": 0,
+  "saturation": 0.0,
+  "eat_time": 15,
+  "eaten_effects": [
+    {
+      "command": "/msg @p Bababui",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    }
+  ],
+  "type": "additions:food"
+}

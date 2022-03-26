@@ -1,0 +1,13 @@
+{
+  "item_block": {
+    "name": "Portal Frame",
+    "type": "additions:block_simple"
+  },
+  "name": "Portal Frame",
+  "material": "minecraft:stone",
+  "resistance": 6000000.0,
+  "harvest_level": 3,
+  "can_pistons_push": false,
+  "type": "additions:simple",
+  "hardness": -1
+}

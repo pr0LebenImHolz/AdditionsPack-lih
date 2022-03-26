@@ -1,0 +1,18 @@
+{
+  "item_block": {
+    "name": "Nether Star Block",
+    "type": "additions:block_simple"
+  },
+  "name": "Nether Star Block",
+  "material": "minecraft:glass",
+  "map_color": "minecraft:snow",
+  "hardness": 2.0,
+  "resistance": 10.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "light_opacity": 5,
+  "light_level": 15,
+  "is_beacon_base": true,
+  "semi_transparent": true,
+  "type": "additions:simple"
+}

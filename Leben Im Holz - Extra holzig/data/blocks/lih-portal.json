@@ -1,0 +1,18 @@
+{
+  "item_block": {
+    "name": "Portal",
+    "type": "additions:block_simple"
+  },
+  "name": "",
+  "material": "minecraft:portal",
+  "map_color": "minecraft:lapis",
+  "resistance": 6000000.0,
+  "light_opacity": 0,
+  "light_level": 15,
+  "can_pistons_push": false,
+  "semi_transparent": true,
+  "has_collision_box": false,
+  "same_collision_bounding_box": false,
+  "type": "additions:simple",
+  "hardness": -1
+}

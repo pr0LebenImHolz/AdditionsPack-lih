@@ -1,0 +1,11 @@
+{
+  "input": {
+    "item": "additions:lih-creativum_lump",
+    "damage": "any"
+  },
+  "output": {
+    "item": "additions:lih-creativum_ingot"
+  },
+  "xp": 1.0,
+  "type": "additions:smelting"
+}

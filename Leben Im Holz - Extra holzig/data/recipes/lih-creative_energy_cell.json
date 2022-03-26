@@ -1,0 +1,43 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "appliedenergistics2:creative_energy_cell"
+    },
+    "key": {
+      "0": {
+        "stack_list": [
+          {
+            "item": "additions:lih-creativum_block",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "stack_list": [
+          {
+            "item": "additions:lih-ae2_kit",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "2": {
+        "stack_list": [
+          {
+            "item": "additions:lih-creative_pearl",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      "010",
+      "020",
+      "000"
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}

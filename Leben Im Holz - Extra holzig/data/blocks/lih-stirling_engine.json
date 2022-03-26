@@ -1,0 +1,14 @@
+{
+  "item_block": {
+    "name": "Stirling Engine",
+    "type": "additions:block_simple"
+  },
+  "name": "Stirling Engine",
+  "material": "minecraft:anvil",
+  "hardness": 4.0,
+  "resistance": 1.0,
+  "harvest_level": 1,
+  "harvest_tool": "pickaxe",
+  "light_level": 3,
+  "type": "additions:simple"
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+		"particle": "additions:blocks/lih-lv_integrated_circuitry_side_up",
+        "down": "additions:blocks/lih-lv_integrated_circuitry_down",
+        "up": "additions:blocks/lih-lv_integrated_circuitry_side_up",
+        "north": "additions:blocks/lih-lv_integrated_circuitry_side_blank",
+        "east": "additions:blocks/lih-lv_integrated_circuitry_side2",
+        "south": "additions:blocks/lih-lv_integrated_circuitry_side_blank",
+        "west": "additions:blocks/lih-lv_integrated_circuitry_side1"
+    }
+}

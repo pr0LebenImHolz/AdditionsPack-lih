@@ -1,0 +1,15 @@
+{
+  "item_block": {
+    "name": "§5Advanced Alchemical Reactor",
+    "type": "additions:block_simple"
+  },
+  "name": "§5Advanced Alchemical Reactor",
+  "material": "minecraft:anvil",
+  "map_color": "minecraft:obsidian",
+  "hardness": 25.0,
+  "resistance": 2000.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "light_level": 15,
+  "type": "additions:simple"
+}

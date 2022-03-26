@@ -1,0 +1,14 @@
+{
+  "item_block": {
+    "name": "Arc Reactor",
+    "type": "additions:block_simple"
+  },
+  "name": "Arc Reactor",
+  "material": "minecraft:anvil",
+  "hardness": 5.0,
+  "resistance": 2.0,
+  "harvest_level": 2,
+  "harvest_tool": "pickaxe",
+  "light_level": 4,
+  "type": "additions:simple"
+}

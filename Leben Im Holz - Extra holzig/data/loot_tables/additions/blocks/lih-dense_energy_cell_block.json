@@ -1,0 +1,16 @@
+{
+  "preset_block": "additions:lih-dense_energy_cell_block",
+  "pools": [
+    {
+      "name": "block_itself_pool",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "additions:lih-dense_energy_cell_block"
+        }
+      ]
+    }
+  ],
+  "preset_type": "additions:block_itself"
+}

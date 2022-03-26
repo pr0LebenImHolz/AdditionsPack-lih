@@ -1,0 +1,34 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "additions:lih-intelligent_engineering_block"
+    },
+    "key": {
+      "0": {
+        "stack_list": [
+          {
+            "item": "immersiveengineering:metal_decoration0",
+            "damage": 5
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "stack_list": [
+          {
+            "item": "immersiveengineering:metal_decoration0",
+            "damage": 3
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      "010",
+      "010",
+      "010"
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}

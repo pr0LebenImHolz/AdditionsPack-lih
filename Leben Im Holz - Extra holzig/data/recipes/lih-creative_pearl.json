@@ -1,0 +1,56 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "additions:lih-creative_pearl"
+    },
+    "key": {
+      "0": {
+        "ore_name": "manaPearl",
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "stack_list": [
+          {
+            "item": "appliedenergistics2:material",
+            "damage": 9
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "2": {
+        "stack_list": [
+          {
+            "item": "minecraft:ender_pearl",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "3": {
+        "stack_list": [
+          {
+            "item": "twilightforest:aurora_block",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "4": {
+        "stack_list": [
+          {
+            "item": "additions:lih-advanced_alchemical_reactor",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      "012",
+      "343",
+      "210"
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}

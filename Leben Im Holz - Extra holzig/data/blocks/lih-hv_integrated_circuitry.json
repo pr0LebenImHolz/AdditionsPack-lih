@@ -1,0 +1,15 @@
+{
+  "item_block": {
+    "name": "HV-Integrated Circuitry",
+    "type": "additions:block_simple"
+  },
+  "name": "HV-Integrated Circuitry",
+  "material": "minecraft:metal",
+  "map_color": "minecraft:obsidian",
+  "hardness": 6.0,
+  "resistance": 3.0,
+  "harvest_level": 3,
+  "harvest_tool": "pickaxe",
+  "light_level": 1,
+  "type": "additions:simple"
+}

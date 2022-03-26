@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "additions:lih-dense_logic_block"
+    }
+  }
+}

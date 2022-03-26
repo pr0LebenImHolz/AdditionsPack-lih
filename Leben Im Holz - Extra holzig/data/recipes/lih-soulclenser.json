@@ -1,0 +1,43 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "additions:lih-soulclenser"
+    },
+    "key": {
+      "0": {
+        "stack_list": [
+          {
+            "item": "thaumcraft:bath_salts",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "stack_list": [
+          {
+            "item": "thaumcraft:sanity_soap",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "2": {
+        "stack_list": [
+          {
+            "item": "additions:lih-empty_pearl",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      "010",
+      "121",
+      "010"
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "§2Leben Im Holz",
+  "tab_item": {
+    "item": "additions:lih-icon"
+  },
+  "items": [
+    {
+      "item": "patchouli:guide_book",
+      "tag": "{\"patchouli:book\":\"patchouli:lih_guide\"}"
+    },
+    {
+      "item": "additions:lih-creativum_block"
+    },
+    {
+      "item": "additions:lih-creativum_ingot"
+    },
+    {
+      "item": "additions:lih-creativum_lump"
+    },
+    {
+      "item": "additions:lih-creative_pearl"
+    },
+    {
+      "item": "additions:lih-nether_star_block"
+    },
+    {
+      "item": "additions:lih-dense_calculation_block"
+    },
+    {
+      "item": "additions:lih-dense_engineering_block"
+    },
+    {
+      "item": "additions:lih-dense_logic_block"
+    },
+    {
+      "item": "additions:lih-dense_energy_cell_block"
+    },
+    {
+      "item": "additions:lih-128k_storage_cell"
+    },
+    {
+      "item": "additions:lih-256k_storage_cell"
+    },
+    {
+      "item": "additions:lih-512k_storage_cell"
+    },
+    {
+      "item": "additions:lih-ae2_kit"
+    },
+    {
+      "item": "additions:lih-lv_integrated_circuitry"
+    },
+    {
+      "item": "additions:lih-stirling_engine"
+    },
+    {
+      "item": "additions:lih-mv_integrated_circuitry"
+    },
+    {
+      "item": "additions:lih-arc_reactor"
+    },
+    {
+      "item": "additions:lih-hv_integrated_circuitry"
+    },
+    {
+      "item": "additions:lih-perpetuum_mobile"
+    },
+    {
+      "item": "additions:lih-intelligent_engineering_block"
+    },
+    {
+      "item": "additions:lih-ie_kit"
+    },
+    {
+      "item": "additions:lih-portal"
+    },
+    {
+      "item": "additions:lih-portal_frame"
+    },
+    {
+      "item": "additions:lih-portal_pane"
+    }
+  ]
+}

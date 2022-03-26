@@ -1,0 +1,34 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "additions:lih-dense_engineering_block"
+    },
+    "key": {
+      "0": {
+        "stack_list": [
+          {
+            "item": "appliedenergistics2:material",
+            "damage": 24
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "stack_list": [
+          {
+            "item": "additions:lih-512k_storage_cell",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      "000",
+      "010",
+      "000"
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}

@@ -1,0 +1,33 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "additions:lih-empty_pearl"
+    },
+    "key": {
+      "0": {
+        "stack_list": [
+          {
+            "item": "botania:managlass",
+            "damage": "any"
+          },
+          {
+            "item": "appliedenergistics2:quartz_vibrant_glass",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "ore_name": "gemDiamond",
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      " 0 ",
+      "010",
+      " 0 "
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}

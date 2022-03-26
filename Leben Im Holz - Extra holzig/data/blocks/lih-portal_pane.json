@@ -1,0 +1,16 @@
+{
+  "item_block": {
+    "name": "§5§n----",
+    "type": "additions:block_simple"
+  },
+  "name": "§5§n----",
+  "material": "minecraft:portal",
+  "map_color": "minecraft:lapis",
+  "resistance": 6000000.0,
+  "harvest_level": 3,
+  "light_opacity": 0,
+  "light_level": 15,
+  "can_pistons_push": false,
+  "semi_transparent": true,
+  "type": "additions:pane"
+}

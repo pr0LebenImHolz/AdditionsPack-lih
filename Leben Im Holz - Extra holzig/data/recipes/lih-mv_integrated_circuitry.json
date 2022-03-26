@@ -1,0 +1,61 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "additions:lih-mv_integrated_circuitry"
+    },
+    "key": {
+      "0": {
+        "stack_list": [
+          {
+            "item": "immersiveengineering:metal_decoration0",
+            "damage": 1
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "stack_list": [
+          {
+            "item": "immersiveengineering:connector",
+            "damage": 2
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "2": {
+        "stack_list": [
+          {
+            "item": "additions:lih-stirling_engine",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "3": {
+        "stack_list": [
+          {
+            "item": "immersiveengineering:metal_device1",
+            "damage": 8
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "4": {
+        "stack_list": [
+          {
+            "item": "immersiveengineering:metal_device0",
+            "damage": 1
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      "010",
+      "232",
+      "444"
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}
