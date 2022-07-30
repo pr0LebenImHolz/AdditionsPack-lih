@@ -72,13 +72,22 @@
       "item": "additions:lih-ie_kit"
     },
     {
-      "item": "additions:lih-portal"
+      "item": "additions:lih-portal_1"
     },
     {
       "item": "additions:lih-portal_frame"
     },
     {
-      "item": "additions:lih-portal_pane"
+      "item": "additions:lih-portal_pane_1"
+    },
+    {
+      "item": "additions:lih-portal_pane_2"
+    },
+    {
+      "item": "additions:lih-portal_pane_4"
+    },
+    {
+      "item": "additions:lih-portal_pane_6"
     }
   ]
 }

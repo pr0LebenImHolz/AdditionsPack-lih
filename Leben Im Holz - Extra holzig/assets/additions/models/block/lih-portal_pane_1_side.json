@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side",
+    "textures": {
+        "edge": "additions:blocks/lih-portal_1_top",
+        "pane": "additions:blocks/lih-portal_1"
+    }
+}

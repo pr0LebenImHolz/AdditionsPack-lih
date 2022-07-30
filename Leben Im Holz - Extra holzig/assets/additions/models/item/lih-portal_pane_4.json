@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "additions:blocks/lih-portal"
+        "layer0": "additions:blocks/lih-portal_4"
     }
 }

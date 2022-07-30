@@ -1,6 +1,6 @@
 {
     "parent": "block/pane_noside",
     "textures": {
-        "pane": "additions:blocks/lih-portal"
+        "pane": "additions:blocks/lih-portal_1"
     }
 }

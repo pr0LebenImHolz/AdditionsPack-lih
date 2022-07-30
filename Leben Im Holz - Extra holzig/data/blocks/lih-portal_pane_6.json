@@ -1,0 +1,16 @@
+{
+  "item_block": {
+    "name": "§6Portal",
+    "type": "additions:block_simple"
+  },
+  "name": "§6Portal",
+  "material": "minecraft:portal",
+  "map_color": "minecraft:gold",
+  "hardness": -1.0,
+  "resistance": 6000000.0,
+  "light_opacity": 3,
+  "light_level": 11,
+  "can_pistons_push": false,
+  "semi_transparent": true,
+  "type": "additions:pane"
+}
