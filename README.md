@@ -6,7 +6,7 @@ _The Leben im Holz [AdditionsPack](https://www.curseforge.com/minecraft/mc-mods/
 
 1. Increment version in `Leben Im Holz - Extra holzig/version.properties`
 2. \[Ingame\] Main Menu » ++ » Leben im Holz Extra holzig v1.0 » Share Your Addon
-3. Enter `1.0` as version (TechnicLauncher won't delete the old pack otherwise)
+3. Enter `1.1` as version (TechnicLauncher won't delete the old pack otherwise)
 
 ## Modifying Blocks
 
